@@ -1,0 +1,787 @@
+{
+  "type": "letoff",
+  "throttle": 1.00,
+  "ranges": [
+    {
+      "rpm": 1000,
+      "triggerCount": 10,
+      "always": [
+      ],
+      "triggers": [
+        [
+        ],
+        [
+        ],
+        [
+        ],
+        [
+        ],
+        [
+        ],
+        [
+        ],
+        [
+        ],
+        [
+        ],
+        [
+        ],
+        [
+        ]
+      ]
+    },
+    {
+      "rpm": 1500,
+      "triggerCount": 10,
+      "always": [
+      ],
+      "triggers": [
+        [
+          {"id": 166, "volume": 0.063753, "pitch": 1.035265, "timeMs": 5}
+        ],
+        [
+          {"id": 291, "volume": 0.096484, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 165, "volume": 0.146937, "pitch": 1.035265, "timeMs": 5}
+        ],
+        [
+        ],
+        [
+          {"id": 290, "volume": 0.089301, "pitch": 1.035265, "timeMs": 7}
+        ],
+        [
+          {"id": 225, "volume": 0.055216, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 298, "volume": 0.072333, "pitch": 1.035265, "timeMs": 9}
+        ],
+        [
+          {"id": 265, "volume": 0.076910, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 284, "volume": 0.046848, "pitch": 1.035265, "timeMs": 7}
+        ],
+        [
+          {"id": 304, "volume": 0.146939, "pitch": 1.035265, "timeMs": 5}
+        ]
+      ]
+    },
+    {
+      "rpm": 2000,
+      "triggerCount": 10,
+      "always": [
+      ],
+      "triggers": [
+        [
+          {"id": 166, "volume": 0.131272, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 224, "volume": 0.176109, "pitch": 1.035265, "timeMs": 4}
+        ],
+        [
+          {"id": 266, "volume": 0.134485, "pitch": 1.035265, "timeMs": 4}
+        ],
+        [
+          {"id": 318, "volume": 0.192277, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+        ],
+        [
+        ],
+        [
+          {"id": 298, "volume": 0.148936, "pitch": 1.035265, "timeMs": 4}
+        ],
+        [
+        ],
+        [
+          {"id": 284, "volume": 0.096462, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 266, "volume": 0.134485, "pitch": 1.035265, "timeMs": 4}
+        ]
+      ]
+    },
+    {
+      "rpm": 2500,
+      "triggerCount": 10,
+      "always": [
+      ],
+      "triggers": [
+        [
+          {"id": 164, "volume": 0.005275, "pitch": 1.245450, "timeMs": 8},
+          {"id": 166, "volume": 0.159335, "pitch": 1.035265, "timeMs": 8},
+          {"id": 227, "volume": 0.226818, "pitch": 0.797189, "timeMs": 8}
+        ],
+        [
+          {"id": 173, "volume": 0.226817, "pitch": 0.948023, "timeMs": 8},
+          {"id": 225, "volume": 0.137995, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 224, "volume": 0.213758, "pitch": 1.035265, "timeMs": 8},
+          {"id": 263, "volume": 0.002078, "pitch": 1.035265, "timeMs": 8},
+          {"id": 267, "volume": 0.226818, "pitch": 0.834891, "timeMs": 8}
+        ],
+        [
+          {"id": 164, "volume": 0.005275, "pitch": 1.245450, "timeMs": 4},
+          {"id": 171, "volume": 0.226817, "pitch": 0.797189, "timeMs": 4},
+          {"id": 265, "volume": 0.192216, "pitch": 1.035265, "timeMs": 4}
+        ],
+        [
+          {"id": 227, "volume": 0.226819, "pitch": 0.797189, "timeMs": 8},
+          {"id": 290, "volume": 0.223183, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 263, "volume": 0.002078, "pitch": 1.035265, "timeMs": 9},
+          {"id": 267, "volume": 0.226818, "pitch": 0.834891, "timeMs": 9},
+          {"id": 291, "volume": 0.241136, "pitch": 1.035265, "timeMs": 9}
+        ],
+        [
+          {"id": 164, "volume": 0.005275, "pitch": 1.245450, "timeMs": 6},
+          {"id": 171, "volume": 0.226819, "pitch": 0.797189, "timeMs": 6},
+          {"id": 266, "volume": 0.163235, "pitch": 1.035265, "timeMs": 6}
+        ],
+        [
+          {"id": 173, "volume": 0.226819, "pitch": 0.948023, "timeMs": 10},
+          {"id": 265, "volume": 0.192217, "pitch": 1.035265, "timeMs": 10}
+        ],
+        [
+          {"id": 222, "volume": 0.002758, "pitch": 1.035265, "timeMs": 4},
+          {"id": 227, "volume": 0.226819, "pitch": 0.797189, "timeMs": 4}
+        ],
+        [
+          {"id": 267, "volume": 0.226818, "pitch": 0.834891, "timeMs": 4},
+          {"id": 318, "volume": 0.233381, "pitch": 1.035265, "timeMs": 4}
+        ]
+      ]
+    },
+    {
+      "rpm": 3000,
+      "triggerCount": 10,
+      "always": [
+      ],
+      "triggers": [
+        [
+          {"id": 164, "volume": 0.009208, "pitch": 1.245450, "timeMs": 8},
+          {"id": 171, "volume": 0.253725, "pitch": 0.956627, "timeMs": 8},
+          {"id": 229, "volume": 0.065428, "pitch": 0.908127, "timeMs": 8},
+          {"id": 304, "volume": 0.410794, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 173, "volume": 0.253726, "pitch": 1.137627, "timeMs": 8},
+          {"id": 174, "volume": 0.065428, "pitch": 0.908127, "timeMs": 8},
+          {"id": 284, "volume": 0.130973, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 222, "volume": 0.004814, "pitch": 1.035265, "timeMs": 8},
+          {"id": 225, "volume": 0.154366, "pitch": 1.035265, "timeMs": 8},
+          {"id": 229, "volume": 0.065428, "pitch": 0.908127, "timeMs": 8},
+          {"id": 267, "volume": 0.253725, "pitch": 1.001869, "timeMs": 8}
+        ],
+        [
+          {"id": 165, "volume": 0.410794, "pitch": 1.035265, "timeMs": 5},
+          {"id": 174, "volume": 0.065428, "pitch": 0.908127, "timeMs": 5},
+          {"id": 227, "volume": 0.253725, "pitch": 0.956627, "timeMs": 5}
+        ],
+        [
+          {"id": 164, "volume": 0.009208, "pitch": 1.245450, "timeMs": 8},
+          {"id": 224, "volume": 0.239115, "pitch": 1.035265, "timeMs": 8},
+          {"id": 229, "volume": 0.065428, "pitch": 0.908127, "timeMs": 8},
+          {"id": 267, "volume": 0.253725, "pitch": 1.001869, "timeMs": 8}
+        ],
+        [
+          {"id": 173, "volume": 0.253726, "pitch": 1.137627, "timeMs": 8},
+          {"id": 174, "volume": 0.065428, "pitch": 0.908127, "timeMs": 8},
+          {"id": 298, "volume": 0.202220, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 171, "volume": 0.253725, "pitch": 0.956627, "timeMs": 8},
+          {"id": 229, "volume": 0.065428, "pitch": 0.908127, "timeMs": 8},
+          {"id": 263, "volume": 0.003627, "pitch": 1.035265, "timeMs": 8},
+          {"id": 291, "volume": 0.269742, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 164, "volume": 0.009208, "pitch": 1.245450, "timeMs": 5},
+          {"id": 165, "volume": 0.410794, "pitch": 1.035265, "timeMs": 5},
+          {"id": 174, "volume": 0.065428, "pitch": 0.908127, "timeMs": 5},
+          {"id": 267, "volume": 0.253725, "pitch": 1.001869, "timeMs": 5}
+        ],
+        [
+          {"id": 222, "volume": 0.004814, "pitch": 1.035265, "timeMs": 9},
+          {"id": 227, "volume": 0.253726, "pitch": 0.956627, "timeMs": 9},
+          {"id": 229, "volume": 0.065428, "pitch": 0.908127, "timeMs": 9},
+          {"id": 318, "volume": 0.261068, "pitch": 1.035265, "timeMs": 9}
+        ],
+        [
+          {"id": 173, "volume": 0.253726, "pitch": 1.137627, "timeMs": 4},
+          {"id": 174, "volume": 0.065428, "pitch": 0.908127, "timeMs": 4},
+          {"id": 266, "volume": 0.182600, "pitch": 1.035265, "timeMs": 4}
+        ]
+      ]
+    },
+    {
+      "rpm": 3500,
+      "triggerCount": 10,
+      "always": [
+      ],
+      "triggers": [
+        [
+          {"id": 166, "volume": 0.197519, "pitch": 1.035265, "timeMs": 10},
+          {"id": 229, "volume": 0.281175, "pitch": 1.059482, "timeMs": 10},
+          {"id": 261, "volume": 0.101905, "pitch": 1.025620, "timeMs": 10},
+          {"id": 263, "volume": 0.005653, "pitch": 1.035265, "timeMs": 10},
+          {"id": 267, "volume": 0.046900, "pitch": 1.168848, "timeMs": 10}
+        ],
+        [
+          {"id": 171, "volume": 0.046900, "pitch": 1.116064, "timeMs": 4},
+          {"id": 174, "volume": 0.281173, "pitch": 1.059482, "timeMs": 4},
+          {"id": 220, "volume": 0.101905, "pitch": 0.940498, "timeMs": 4},
+          {"id": 224, "volume": 0.264983, "pitch": 1.035265, "timeMs": 4}
+        ],
+        [
+          {"id": 222, "volume": 0.007504, "pitch": 1.035265, "timeMs": 4},
+          {"id": 227, "volume": 0.046900, "pitch": 1.116064, "timeMs": 4},
+          {"id": 229, "volume": 0.281176, "pitch": 1.059482, "timeMs": 4},
+          {"id": 296, "volume": 0.101906, "pitch": 0.979305, "timeMs": 4}
+        ],
+        [
+          {"id": 174, "volume": 0.281176, "pitch": 1.059482, "timeMs": 5},
+          {"id": 223, "volume": 0.101906, "pitch": 0.956937, "timeMs": 5},
+          {"id": 225, "volume": 0.171067, "pitch": 1.035265, "timeMs": 5},
+          {"id": 267, "volume": 0.046900, "pitch": 1.168848, "timeMs": 5}
+        ],
+        [
+          {"id": 159, "volume": 0.101902, "pitch": 0.979305, "timeMs": 4},
+          {"id": 173, "volume": 0.046900, "pitch": 1.327232, "timeMs": 4},
+          {"id": 229, "volume": 0.281175, "pitch": 1.059482, "timeMs": 4},
+          {"id": 263, "volume": 0.005653, "pitch": 1.035265, "timeMs": 4},
+          {"id": 290, "volume": 0.276668, "pitch": 1.035265, "timeMs": 4}
+        ],
+        [
+          {"id": 171, "volume": 0.046900, "pitch": 1.116064, "timeMs": 6},
+          {"id": 174, "volume": 0.281176, "pitch": 1.059482, "timeMs": 6},
+          {"id": 264, "volume": 0.101906, "pitch": 0.935081, "timeMs": 6},
+          {"id": 284, "volume": 0.145142, "pitch": 1.035265, "timeMs": 6}
+        ],
+        [
+          {"id": 164, "volume": 0.014353, "pitch": 1.245450, "timeMs": 8},
+          {"id": 227, "volume": 0.046900, "pitch": 1.116064, "timeMs": 8},
+          {"id": 229, "volume": 0.281176, "pitch": 1.059482, "timeMs": 8},
+          {"id": 261, "volume": 0.101906, "pitch": 1.025620, "timeMs": 8},
+          {"id": 304, "volume": 0.455239, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 174, "volume": 0.281176, "pitch": 1.059482, "timeMs": 8},
+          {"id": 220, "volume": 0.101906, "pitch": 0.940498, "timeMs": 8},
+          {"id": 267, "volume": 0.046900, "pitch": 1.168848, "timeMs": 8},
+          {"id": 290, "volume": 0.276669, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 173, "volume": 0.046900, "pitch": 1.327232, "timeMs": 8},
+          {"id": 229, "volume": 0.281173, "pitch": 1.059482, "timeMs": 8},
+          {"id": 263, "volume": 0.005653, "pitch": 1.035265, "timeMs": 8},
+          {"id": 296, "volume": 0.101905, "pitch": 0.979305, "timeMs": 8},
+          {"id": 318, "volume": 0.289309, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 159, "volume": 0.101903, "pitch": 0.979305, "timeMs": 8},
+          {"id": 164, "volume": 0.014353, "pitch": 1.245450, "timeMs": 8},
+          {"id": 174, "volume": 0.281176, "pitch": 1.059482, "timeMs": 8},
+          {"id": 227, "volume": 0.046900, "pitch": 1.116064, "timeMs": 8},
+          {"id": 266, "volume": 0.202355, "pitch": 1.035265, "timeMs": 8}
+        ]
+      ]
+    },
+    {
+      "rpm": 4000,
+      "triggerCount": 10,
+      "always": [
+      ],
+      "triggers": [
+        [
+          {"id": 223, "volume": 0.308928, "pitch": 1.093643, "timeMs": 8},
+          {"id": 229, "volume": 0.007419, "pitch": 1.210836, "timeMs": 8},
+          {"id": 262, "volume": 0.050711, "pitch": 0.898649, "timeMs": 8},
+          {"id": 298, "volume": 0.246216, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 159, "volume": 0.308919, "pitch": 1.119205, "timeMs": 4},
+          {"id": 161, "volume": 0.050711, "pitch": 0.941150, "timeMs": 4},
+          {"id": 174, "volume": 0.007419, "pitch": 1.210836, "timeMs": 4}
+        ],
+        [
+          {"id": 220, "volume": 0.308926, "pitch": 1.074854, "timeMs": 8},
+          {"id": 221, "volume": 0.050711, "pitch": 1.020420, "timeMs": 8},
+          {"id": 229, "volume": 0.007419, "pitch": 1.210836, "timeMs": 8},
+          {"id": 263, "volume": 0.008067, "pitch": 1.035265, "timeMs": 8},
+          {"id": 265, "volume": 0.261799, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 174, "volume": 0.007419, "pitch": 1.210836, "timeMs": 4},
+          {"id": 262, "volume": 0.050711, "pitch": 0.898649, "timeMs": 4},
+          {"id": 284, "volume": 0.159468, "pitch": 1.035265, "timeMs": 4},
+          {"id": 296, "volume": 0.308928, "pitch": 1.119205, "timeMs": 4}
+        ],
+        [
+          {"id": 163, "volume": 0.050711, "pitch": 0.941150, "timeMs": 8},
+          {"id": 164, "volume": 0.020482, "pitch": 1.245450, "timeMs": 8},
+          {"id": 224, "volume": 0.291139, "pitch": 1.035265, "timeMs": 8},
+          {"id": 229, "volume": 0.007419, "pitch": 1.210836, "timeMs": 8},
+          {"id": 261, "volume": 0.308928, "pitch": 1.172137, "timeMs": 8}
+        ],
+        [
+          {"id": 174, "volume": 0.007419, "pitch": 1.210836, "timeMs": 8},
+          {"id": 225, "volume": 0.187952, "pitch": 1.035265, "timeMs": 8},
+          {"id": 262, "volume": 0.050711, "pitch": 0.898649, "timeMs": 8},
+          {"id": 264, "volume": 0.308928, "pitch": 1.068664, "timeMs": 8}
+        ],
+        [
+          {"id": 165, "volume": 0.500169, "pitch": 1.035265, "timeMs": 8},
+          {"id": 221, "volume": 0.050711, "pitch": 1.020420, "timeMs": 8},
+          {"id": 229, "volume": 0.007419, "pitch": 1.210836, "timeMs": 8},
+          {"id": 263, "volume": 0.008067, "pitch": 1.035265, "timeMs": 8},
+          {"id": 296, "volume": 0.308927, "pitch": 1.119205, "timeMs": 8}
+        ],
+        [
+          {"id": 161, "volume": 0.050711, "pitch": 0.941150, "timeMs": 6},
+          {"id": 164, "volume": 0.020482, "pitch": 1.245450, "timeMs": 6},
+          {"id": 174, "volume": 0.007419, "pitch": 1.210836, "timeMs": 6},
+          {"id": 223, "volume": 0.308928, "pitch": 1.093643, "timeMs": 6},
+          {"id": 291, "volume": 0.328431, "pitch": 1.035265, "timeMs": 6}
+        ],
+        [
+          {"id": 159, "volume": 0.308919, "pitch": 1.119205, "timeMs": 5},
+          {"id": 163, "volume": 0.050711, "pitch": 0.941150, "timeMs": 5},
+          {"id": 222, "volume": 0.010709, "pitch": 1.035265, "timeMs": 5},
+          {"id": 229, "volume": 0.007419, "pitch": 1.210836, "timeMs": 5},
+          {"id": 266, "volume": 0.222327, "pitch": 1.035265, "timeMs": 5}
+        ],
+        [
+          {"id": 174, "volume": 0.007419, "pitch": 1.210836, "timeMs": 8},
+          {"id": 261, "volume": 0.308927, "pitch": 1.172137, "timeMs": 8},
+          {"id": 262, "volume": 0.050711, "pitch": 0.898649, "timeMs": 8},
+          {"id": 284, "volume": 0.159467, "pitch": 1.035265, "timeMs": 8}
+        ]
+      ]
+    },
+    {
+      "rpm": 4500,
+      "triggerCount": 10,
+      "always": [
+      ],
+      "triggers": [
+        [
+          {"id": 220, "volume": 0.014481, "pitch": 1.209211, "timeMs": 3},
+          {"id": 221, "volume": 0.336755, "pitch": 1.147972, "timeMs": 3},
+          {"id": 224, "volume": 0.317364, "pitch": 1.035265, "timeMs": 3},
+          {"id": 263, "volume": 0.010746, "pitch": 1.035265, "timeMs": 3}
+        ],
+        [
+          {"id": 261, "volume": 0.014481, "pitch": 1.318654, "timeMs": 4},
+          {"id": 262, "volume": 0.336757, "pitch": 1.010980, "timeMs": 4}
+        ],
+        [
+          {"id": 161, "volume": 0.336757, "pitch": 1.058794, "timeMs": 6},
+          {"id": 164, "volume": 0.027282, "pitch": 1.245450, "timeMs": 6},
+          {"id": 165, "volume": 0.545227, "pitch": 1.035265, "timeMs": 6},
+          {"id": 296, "volume": 0.014481, "pitch": 1.259106, "timeMs": 6}
+        ],
+        [
+          {"id": 163, "volume": 0.336757, "pitch": 1.058794, "timeMs": 4},
+          {"id": 166, "volume": 0.236564, "pitch": 1.035265, "timeMs": 4},
+          {"id": 223, "volume": 0.014481, "pitch": 1.230348, "timeMs": 4}
+        ],
+        [
+          {"id": 159, "volume": 0.014480, "pitch": 1.259106, "timeMs": 4},
+          {"id": 221, "volume": 0.336755, "pitch": 1.147972, "timeMs": 4},
+          {"id": 263, "volume": 0.010746, "pitch": 1.035265, "timeMs": 4},
+          {"id": 318, "volume": 0.346500, "pitch": 1.035265, "timeMs": 4}
+        ],
+        [
+          {"id": 161, "volume": 0.336755, "pitch": 1.058794, "timeMs": 6},
+          {"id": 264, "volume": 0.014481, "pitch": 1.202247, "timeMs": 6},
+          {"id": 290, "volume": 0.331358, "pitch": 1.035265, "timeMs": 6}
+        ],
+        [
+          {"id": 164, "volume": 0.027282, "pitch": 1.245450, "timeMs": 8},
+          {"id": 261, "volume": 0.014480, "pitch": 1.318654, "timeMs": 8},
+          {"id": 262, "volume": 0.336754, "pitch": 1.010980, "timeMs": 8},
+          {"id": 298, "volume": 0.268393, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 221, "volume": 0.336754, "pitch": 1.147972, "timeMs": 9},
+          {"id": 223, "volume": 0.014480, "pitch": 1.230348, "timeMs": 9},
+          {"id": 225, "volume": 0.204880, "pitch": 1.035265, "timeMs": 9},
+          {"id": 263, "volume": 0.010745, "pitch": 1.035265, "timeMs": 9}
+        ],
+        [
+          {"id": 163, "volume": 0.336754, "pitch": 1.058794, "timeMs": 6},
+          {"id": 220, "volume": 0.014480, "pitch": 1.209211, "timeMs": 6},
+          {"id": 304, "volume": 0.545222, "pitch": 1.035265, "timeMs": 6}
+        ],
+        [
+          {"id": 161, "volume": 0.336756, "pitch": 1.058794, "timeMs": 8},
+          {"id": 164, "volume": 0.027282, "pitch": 1.245450, "timeMs": 8},
+          {"id": 296, "volume": 0.014481, "pitch": 1.259106, "timeMs": 8},
+          {"id": 318, "volume": 0.346500, "pitch": 1.035265, "timeMs": 8}
+        ]
+      ]
+    },
+    {
+      "rpm": 5000,
+      "triggerCount": 10,
+      "always": [
+      ],
+      "triggers": [
+        [
+          {"id": 163, "volume": 0.032924, "pitch": 1.176437, "timeMs": 7},
+          {"id": 218, "volume": 0.064756, "pitch": 0.718934, "timeMs": 7},
+          {"id": 260, "volume": 0.029692, "pitch": 0.699503, "timeMs": 7},
+          {"id": 263, "volume": 0.013603, "pitch": 1.035265, "timeMs": 7},
+          {"id": 266, "volume": 0.263113, "pitch": 1.035265, "timeMs": 7}
+        ],
+        [
+          {"id": 224, "volume": 0.344549, "pitch": 1.035265, "timeMs": 7},
+          {"id": 262, "volume": 0.032924, "pitch": 1.123312, "timeMs": 7},
+          {"id": 302, "volume": 0.040914, "pitch": 0.718934, "timeMs": 7}
+        ],
+        [
+          {"id": 164, "volume": 0.034538, "pitch": 1.245450, "timeMs": 4},
+          {"id": 221, "volume": 0.032924, "pitch": 1.275525, "timeMs": 4},
+          {"id": 225, "volume": 0.222433, "pitch": 1.035265, "timeMs": 4},
+          {"id": 269, "volume": 0.029692, "pitch": 0.699503, "timeMs": 4},
+          {"id": 282, "volume": 0.064845, "pitch": 0.727288, "timeMs": 4}
+        ],
+        [
+          {"id": 161, "volume": 0.032924, "pitch": 1.176437, "timeMs": 5},
+          {"id": 291, "volume": 0.388683, "pitch": 1.035265, "timeMs": 5},
+          {"id": 292, "volume": 0.014882, "pitch": 0.699503, "timeMs": 5},
+          {"id": 302, "volume": 0.040915, "pitch": 0.718934, "timeMs": 5}
+        ],
+        [
+          {"id": 218, "volume": 0.064756, "pitch": 0.718934, "timeMs": 8},
+          {"id": 262, "volume": 0.032924, "pitch": 1.123312, "timeMs": 8},
+          {"id": 263, "volume": 0.013603, "pitch": 1.035265, "timeMs": 8},
+          {"id": 265, "volume": 0.309829, "pitch": 1.035265, "timeMs": 8},
+          {"id": 285, "volume": 0.029693, "pitch": 0.699503, "timeMs": 8}
+        ],
+        [
+          {"id": 163, "volume": 0.032924, "pitch": 1.176437, "timeMs": 4},
+          {"id": 166, "volume": 0.256827, "pitch": 1.035265, "timeMs": 4},
+          {"id": 175, "volume": 0.029692, "pitch": 0.699503, "timeMs": 4}
+        ],
+        [
+          {"id": 161, "volume": 0.032924, "pitch": 1.176437, "timeMs": 8},
+          {"id": 164, "volume": 0.034538, "pitch": 1.245450, "timeMs": 8},
+          {"id": 268, "volume": 0.064845, "pitch": 0.727288, "timeMs": 8},
+          {"id": 284, "volume": 0.188724, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 228, "volume": 0.064845, "pitch": 0.710676, "timeMs": 4},
+          {"id": 262, "volume": 0.032924, "pitch": 1.123312, "timeMs": 4},
+          {"id": 263, "volume": 0.013603, "pitch": 1.035265, "timeMs": 4},
+          {"id": 290, "volume": 0.359742, "pitch": 1.035265, "timeMs": 4}
+        ],
+        [
+          {"id": 221, "volume": 0.032924, "pitch": 1.275525, "timeMs": 4},
+          {"id": 260, "volume": 0.029692, "pitch": 0.699503, "timeMs": 4},
+          {"id": 298, "volume": 0.291386, "pitch": 1.035265, "timeMs": 4},
+          {"id": 305, "volume": 0.040915, "pitch": 0.761684, "timeMs": 4}
+        ],
+        [
+          {"id": 163, "volume": 0.032924, "pitch": 1.176437, "timeMs": 7},
+          {"id": 164, "volume": 0.034538, "pitch": 1.245450, "timeMs": 7},
+          {"id": 268, "volume": 0.064845, "pitch": 0.727288, "timeMs": 7}
+        ]
+      ]
+    },
+    {
+      "rpm": 5500,
+      "triggerCount": 10,
+      "always": [
+      ],
+      "triggers": [
+        [
+          {"id": 166, "volume": 0.287238, "pitch": 1.035265, "timeMs": 12},
+          {"id": 263, "volume": 0.017115, "pitch": 1.035265, "timeMs": 12},
+          {"id": 269, "volume": 0.142772, "pitch": 0.769454, "timeMs": 12},
+          {"id": 302, "volume": 0.160427, "pitch": 0.790827, "timeMs": 12}
+        ],
+        [
+          {"id": 225, "volume": 0.248771, "pitch": 1.035265, "timeMs": 5},
+          {"id": 282, "volume": 0.254260, "pitch": 0.800016, "timeMs": 5},
+          {"id": 285, "volume": 0.142777, "pitch": 0.769454, "timeMs": 5}
+        ],
+        [
+          {"id": 157, "volume": 0.254262, "pitch": 0.759489, "timeMs": 8},
+          {"id": 164, "volume": 0.043455, "pitch": 1.245450, "timeMs": 8},
+          {"id": 219, "volume": 0.071559, "pitch": 0.769454, "timeMs": 8},
+          {"id": 284, "volume": 0.211072, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+        ],
+        [
+          {"id": 218, "volume": 0.253912, "pitch": 0.790827, "timeMs": 6},
+          {"id": 263, "volume": 0.017115, "pitch": 1.035265, "timeMs": 6},
+          {"id": 290, "volume": 0.402343, "pitch": 1.035265, "timeMs": 6},
+          {"id": 292, "volume": 0.071558, "pitch": 0.769454, "timeMs": 6}
+        ],
+        [
+          {"id": 164, "volume": 0.043455, "pitch": 1.245450, "timeMs": 8},
+          {"id": 175, "volume": 0.142774, "pitch": 0.769454, "timeMs": 8},
+          {"id": 228, "volume": 0.254262, "pitch": 0.781744, "timeMs": 8},
+          {"id": 318, "volume": 0.420730, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 266, "volume": 0.294273, "pitch": 1.035265, "timeMs": 6},
+          {"id": 269, "volume": 0.142774, "pitch": 0.769454, "timeMs": 6}
+        ],
+        [
+          {"id": 260, "volume": 0.142775, "pitch": 0.769454, "timeMs": 6},
+          {"id": 282, "volume": 0.254263, "pitch": 0.800016, "timeMs": 6}
+        ],
+        [
+          {"id": 263, "volume": 0.017116, "pitch": 1.035265, "timeMs": 6},
+          {"id": 298, "volume": 0.325893, "pitch": 1.035265, "timeMs": 6},
+          {"id": 305, "volume": 0.160429, "pitch": 0.837852, "timeMs": 6}
+        ],
+        [
+          {"id": 224, "volume": 0.385355, "pitch": 1.035265, "timeMs": 7},
+          {"id": 302, "volume": 0.160429, "pitch": 0.790827, "timeMs": 7}
+        ]
+      ]
+    },
+    {
+      "rpm": 6000,
+      "triggerCount": 10,
+      "always": [
+      ],
+      "triggers": [
+        [
+          {"id": 157, "volume": 0.501152, "pitch": 0.828534, "timeMs": 4},
+          {"id": 222, "volume": 0.027854, "pitch": 1.035265, "timeMs": 4},
+          {"id": 265, "volume": 0.388170, "pitch": 1.035265, "timeMs": 4},
+          {"id": 285, "volume": 0.314187, "pitch": 0.839404, "timeMs": 4}
+        ],
+        [
+          {"id": 269, "volume": 0.314178, "pitch": 0.839404, "timeMs": 5},
+          {"id": 284, "volume": 0.236442, "pitch": 1.035265, "timeMs": 5},
+          {"id": 302, "volume": 0.316206, "pitch": 0.862721, "timeMs": 5}
+        ],
+        [
+          {"id": 218, "volume": 0.500464, "pitch": 0.862721, "timeMs": 5},
+          {"id": 224, "volume": 0.431670, "pitch": 1.035265, "timeMs": 5},
+          {"id": 263, "volume": 0.020984, "pitch": 1.035265, "timeMs": 5}
+        ],
+        [
+          {"id": 165, "volume": 0.741600, "pitch": 1.035265, "timeMs": 6},
+          {"id": 228, "volume": 0.501152, "pitch": 0.852812, "timeMs": 6}
+        ],
+        [
+          {"id": 164, "volume": 0.053277, "pitch": 1.245450, "timeMs": 8},
+          {"id": 175, "volume": 0.314180, "pitch": 0.839404, "timeMs": 8},
+          {"id": 266, "volume": 0.329645, "pitch": 1.035265, "timeMs": 8},
+          {"id": 305, "volume": 0.316207, "pitch": 0.914021, "timeMs": 8}
+        ],
+        [
+          {"id": 263, "volume": 0.020984, "pitch": 1.035265, "timeMs": 5},
+          {"id": 282, "volume": 0.501155, "pitch": 0.872745, "timeMs": 5},
+          {"id": 298, "volume": 0.365065, "pitch": 1.035265, "timeMs": 5}
+        ],
+        [
+          {"id": 268, "volume": 0.501153, "pitch": 0.872745, "timeMs": 6},
+          {"id": 290, "volume": 0.450705, "pitch": 1.035265, "timeMs": 6}
+        ],
+        [
+          {"id": 157, "volume": 0.501153, "pitch": 0.828534, "timeMs": 3},
+          {"id": 164, "volume": 0.053277, "pitch": 1.245450, "timeMs": 3},
+          {"id": 260, "volume": 0.314178, "pitch": 0.839404, "timeMs": 3}
+        ],
+        [
+          {"id": 263, "volume": 0.020984, "pitch": 1.035265, "timeMs": 5},
+          {"id": 291, "volume": 0.486964, "pitch": 1.035265, "timeMs": 5},
+          {"id": 302, "volume": 0.316207, "pitch": 0.862721, "timeMs": 5}
+        ],
+        [
+          {"id": 218, "volume": 0.500467, "pitch": 0.862721, "timeMs": 8},
+          {"id": 292, "volume": 0.157468, "pitch": 0.839404, "timeMs": 8},
+          {"id": 318, "volume": 0.471303, "pitch": 1.035265, "timeMs": 8}
+        ]
+      ]
+    },
+    {
+      "rpm": 6500,
+      "triggerCount": 10,
+      "always": [
+      ],
+      "triggers": [
+        [
+          {"id": 222, "volume": 0.033492, "pitch": 1.035265, "timeMs": 8},
+          {"id": 225, "volume": 0.312679, "pitch": 1.035265, "timeMs": 8},
+          {"id": 228, "volume": 0.725277, "pitch": 0.923879, "timeMs": 8}
+        ],
+        [
+          {"id": 166, "volume": 0.361029, "pitch": 1.035265, "timeMs": 5},
+          {"id": 175, "volume": 0.487001, "pitch": 0.909354, "timeMs": 5},
+          {"id": 263, "volume": 0.025231, "pitch": 1.035265, "timeMs": 5},
+          {"id": 282, "volume": 0.725277, "pitch": 0.945474, "timeMs": 5}
+        ],
+        [
+          {"id": 164, "volume": 0.064060, "pitch": 1.245450, "timeMs": 4},
+          {"id": 260, "volume": 0.486999, "pitch": 0.909354, "timeMs": 4},
+          {"id": 304, "volume": 0.832088, "pitch": 1.035265, "timeMs": 4},
+          {"id": 305, "volume": 0.457617, "pitch": 0.990189, "timeMs": 4}
+        ],
+        [
+          {"id": 157, "volume": 0.725274, "pitch": 0.897578, "timeMs": 4},
+          {"id": 266, "volume": 0.369865, "pitch": 1.035265, "timeMs": 4}
+        ],
+        [
+          {"id": 158, "volume": 0.487013, "pitch": 0.909354, "timeMs": 8},
+          {"id": 222, "volume": 0.033492, "pitch": 1.035265, "timeMs": 8},
+          {"id": 224, "volume": 0.484341, "pitch": 1.035265, "timeMs": 8},
+          {"id": 268, "volume": 0.725274, "pitch": 0.945474, "timeMs": 8}
+        ],
+        [
+          {"id": 269, "volume": 0.486998, "pitch": 0.909354, "timeMs": 5},
+          {"id": 298, "volume": 0.409606, "pitch": 1.035265, "timeMs": 5}
+        ],
+        [
+          {"id": 164, "volume": 0.064060, "pitch": 1.245450, "timeMs": 4},
+          {"id": 218, "volume": 0.724278, "pitch": 0.934614, "timeMs": 4},
+          {"id": 219, "volume": 0.244085, "pitch": 0.909354, "timeMs": 4},
+          {"id": 225, "volume": 0.312678, "pitch": 1.035265, "timeMs": 4}
+        ],
+        [
+          {"id": 165, "volume": 0.832092, "pitch": 1.035265, "timeMs": 8},
+          {"id": 302, "volume": 0.457619, "pitch": 0.934614, "timeMs": 8}
+        ],
+        [
+          {"id": 222, "volume": 0.033492, "pitch": 1.035265, "timeMs": 6},
+          {"id": 284, "volume": 0.265292, "pitch": 1.035265, "timeMs": 6},
+          {"id": 285, "volume": 0.487013, "pitch": 0.909354, "timeMs": 6}
+        ],
+        [
+          {"id": 164, "volume": 0.064060, "pitch": 1.245450, "timeMs": 4},
+          {"id": 219, "volume": 0.244085, "pitch": 0.909354, "timeMs": 4},
+          {"id": 268, "volume": 0.725274, "pitch": 0.945474, "timeMs": 4},
+          {"id": 291, "volume": 0.546379, "pitch": 1.035265, "timeMs": 4}
+        ]
+      ]
+    },
+    {
+      "rpm": 7000,
+      "triggerCount": 10,
+      "always": [
+      ],
+      "triggers": [
+        [
+          {"id": 157, "volume": 0.914126, "pitch": 0.966623, "timeMs": 5},
+          {"id": 263, "volume": 0.029901, "pitch": 1.035265, "timeMs": 5},
+          {"id": 290, "volume": 0.568339, "pitch": 1.035265, "timeMs": 5},
+          {"id": 292, "volume": 0.275737, "pitch": 0.979305, "timeMs": 5}
+        ],
+        [
+          {"id": 175, "volume": 0.550150, "pitch": 0.979305, "timeMs": 8},
+          {"id": 265, "volume": 0.489484, "pitch": 1.035265, "timeMs": 8},
+          {"id": 302, "volume": 0.576774, "pitch": 1.006508, "timeMs": 8}
+        ],
+        [
+          {"id": 164, "volume": 0.075916, "pitch": 1.245450, "timeMs": 4},
+          {"id": 318, "volume": 0.594311, "pitch": 1.035265, "timeMs": 4}
+        ],
+        [
+          {"id": 218, "volume": 0.912871, "pitch": 1.006508, "timeMs": 5},
+          {"id": 260, "volume": 0.550150, "pitch": 0.979305, "timeMs": 5},
+          {"id": 263, "volume": 0.029901, "pitch": 1.035265, "timeMs": 5}
+        ],
+        [
+          {"id": 158, "volume": 0.550167, "pitch": 0.979305, "timeMs": 7},
+          {"id": 222, "volume": 0.039691, "pitch": 1.035265, "timeMs": 7},
+          {"id": 228, "volume": 0.914126, "pitch": 0.994947, "timeMs": 7},
+          {"id": 298, "volume": 0.460345, "pitch": 1.035265, "timeMs": 7}
+        ],
+        [
+          {"id": 268, "volume": 0.914122, "pitch": 1.018203, "timeMs": 6},
+          {"id": 304, "volume": 0.935156, "pitch": 1.035265, "timeMs": 6}
+        ],
+        [
+          {"id": 157, "volume": 0.914121, "pitch": 0.966623, "timeMs": 8},
+          {"id": 164, "volume": 0.075916, "pitch": 1.245450, "timeMs": 8},
+          {"id": 284, "volume": 0.298153, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 218, "volume": 0.912866, "pitch": 1.006508, "timeMs": 8},
+          {"id": 269, "volume": 0.550147, "pitch": 0.979305, "timeMs": 8}
+        ],
+        [
+          {"id": 225, "volume": 0.351407, "pitch": 1.035265, "timeMs": 3},
+          {"id": 263, "volume": 0.029901, "pitch": 1.035265, "timeMs": 3},
+          {"id": 302, "volume": 0.576772, "pitch": 1.006508, "timeMs": 3}
+        ],
+        [
+          {"id": 164, "volume": 0.075916, "pitch": 1.245450, "timeMs": 7},
+          {"id": 285, "volume": 0.550167, "pitch": 0.979305, "timeMs": 7},
+          {"id": 291, "volume": 0.614060, "pitch": 1.035265, "timeMs": 7}
+        ]
+      ]
+    },
+    {
+      "rpm": 7500,
+      "triggerCount": 10,
+      "always": [
+      ],
+      "triggers": [
+        [
+          {"id": 224, "volume": 0.612785, "pitch": 1.035265, "timeMs": 4},
+          {"id": 292, "volume": 0.310409, "pitch": 1.049255, "timeMs": 4},
+          {"id": 305, "volume": 0.650227, "pitch": 1.142526, "timeMs": 4}
+        ],
+        [
+          {"id": 175, "volume": 0.619326, "pitch": 1.049255, "timeMs": 4},
+          {"id": 218, "volume": 1.029119, "pitch": 1.078401, "timeMs": 4},
+          {"id": 266, "volume": 0.467948, "pitch": 1.035265, "timeMs": 4}
+        ],
+        [
+          {"id": 228, "volume": 1.030539, "pitch": 1.066014, "timeMs": 5},
+          {"id": 263, "volume": 0.035057, "pitch": 1.035265, "timeMs": 5}
+        ],
+        [
+          {"id": 260, "volume": 0.619328, "pitch": 1.049255, "timeMs": 8},
+          {"id": 268, "volume": 1.030539, "pitch": 1.090931, "timeMs": 8},
+          {"id": 290, "volume": 0.639804, "pitch": 1.035265, "timeMs": 8}
+        ],
+        [
+          {"id": 157, "volume": 1.030539, "pitch": 1.035667, "timeMs": 7},
+          {"id": 158, "volume": 0.619347, "pitch": 1.049255, "timeMs": 7},
+          {"id": 164, "volume": 0.089008, "pitch": 1.245450, "timeMs": 7},
+          {"id": 266, "volume": 0.467950, "pitch": 1.035265, "timeMs": 7}
+        ],
+        [
+          {"id": 263, "volume": 0.035057, "pitch": 1.035265, "timeMs": 4},
+          {"id": 269, "volume": 0.619329, "pitch": 1.049255, "timeMs": 4}
+        ],
+        [
+          {"id": 282, "volume": 1.030540, "pitch": 1.090931, "timeMs": 6},
+          {"id": 284, "volume": 0.335645, "pitch": 1.035265, "timeMs": 6}
+        ],
+        [
+          {"id": 164, "volume": 0.089008, "pitch": 1.245450, "timeMs": 7},
+          {"id": 218, "volume": 1.029119, "pitch": 1.078401, "timeMs": 7},
+          {"id": 291, "volume": 0.691271, "pitch": 1.035265, "timeMs": 7},
+          {"id": 292, "volume": 0.310408, "pitch": 1.049255, "timeMs": 7}
+        ],
+        [
+          {"id": 166, "volume": 0.456767, "pitch": 1.035265, "timeMs": 5},
+          {"id": 175, "volume": 0.619326, "pitch": 1.049255, "timeMs": 5},
+          {"id": 228, "volume": 1.030535, "pitch": 1.066014, "timeMs": 5},
+          {"id": 263, "volume": 0.035057, "pitch": 1.035265, "timeMs": 5}
+        ],
+        [
+          {"id": 165, "volume": 1.052745, "pitch": 1.035265, "timeMs": 8},
+          {"id": 268, "volume": 1.030534, "pitch": 1.090931, "timeMs": 8}
+        ]
+      ]
+    }
+  ]
+}
